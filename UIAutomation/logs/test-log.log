@@ -1,0 +1,148 @@
+2025-05-20 23:18:11 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-20 23:18:26 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-20 23:18:29 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-20 23:18:30 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-20 23:18:34 [main] INFO  app.Util.Log - Registering new player with all data !!
+2025-05-20 23:18:35 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-20 23:18:36 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-20 23:18:42 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-20 23:18:48 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-20 23:18:49 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-20 23:19:26 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-20 23:19:27 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-20 23:37:52 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-20 23:38:07 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-20 23:38:08 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-20 23:38:31 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-20 23:38:37 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-20 23:38:38 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-20 23:38:38 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-20 23:41:41 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-20 23:41:53 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-20 23:41:54 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-20 23:42:03 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-20 23:42:08 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-20 23:42:16 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-20 23:42:17 [main] INFO  app.Util.Log - Player Logging Out !!!
+2025-05-20 23:42:18 [main] INFO  app.Util.Log - Scenario PASSED: Successful Login with registered player
+2025-05-21 00:06:39 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:06:54 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:06:55 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:07:12 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:07:13 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:09:46 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:09:59 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:10:00 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:10:08 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:10:08 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:12:06 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:12:19 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:12:20 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:12:27 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:12:27 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:21:21 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:21:35 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:21:36 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:21:42 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:21:43 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:23:26 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:23:39 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:23:40 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:23:48 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 00:23:49 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 00:23:53 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-21 00:23:53 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:23:54 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:42:18 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:42:32 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:42:33 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:42:42 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 00:42:42 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 00:42:43 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:42:43 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:46:39 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:46:52 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:46:52 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:47:00 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 00:47:01 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 00:47:01 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:47:01 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 00:54:17 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 00:54:31 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 00:54:32 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 00:54:40 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 00:54:40 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 00:54:48 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-21 00:54:48 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 00:54:49 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 01:01:02 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:01:14 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:01:15 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:01:23 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 01:01:23 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 01:01:32 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-21 01:01:38 [main] INFO  app.Util.Log - Player Logging Out !!!
+2025-05-21 01:01:39 [main] INFO  app.Util.Log - Scenario PASSED: Successful Login with registered player
+2025-05-21 01:09:58 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-21 01:10:10 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-21 01:10:13 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-21 01:10:14 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-21 01:10:26 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:10:27 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-21 01:10:33 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:10:38 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:10:39 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:11:15 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:11:16 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 01:12:57 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-21 01:13:10 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-21 01:13:13 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-21 01:13:14 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-21 01:13:26 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:13:27 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-21 01:13:33 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:13:38 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:13:39 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:14:10 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 01:14:10 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 01:14:18 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-21 01:14:23 [main] INFO  app.Util.Log - Player Logging Out !!!
+2025-05-21 01:14:24 [main] INFO  app.Util.Log - Scenario PASSED: Successful Login with registered player
+2025-05-21 01:24:31 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-21 01:24:45 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-21 01:24:47 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-21 01:24:48 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-21 01:25:00 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:25:01 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-21 01:25:07 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:25:14 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:25:18 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:25:59 [main] INFO  app.Util.Log - Click on User Profile at top right corner
+2025-05-21 01:26:06 [main] INFO  app.Util.Log - Open Security Question Window
+2025-05-21 01:26:06 [main] INFO  app.Util.Log - Change and Save Security Questions
+2025-05-21 01:26:14 [main] INFO  app.Util.Log - Change and Save Newsletter options
+2025-05-21 01:26:21 [main] INFO  app.Util.Log - Player Logging Out !!!
+2025-05-21 01:26:21 [main] INFO  app.Util.Log - Click on User Profile at top right corner
+2025-05-21 01:26:21 [main] INFO  app.Util.Log - Scenario PASSED: Successful Login with registered player
+2025-05-21 01:52:25 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-21 01:52:41 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-21 01:52:43 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-21 01:52:45 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-21 01:53:18 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:53:18 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-21 01:53:24 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:53:30 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:53:33 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:54:09 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:54:10 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
+2025-05-21 01:54:46 [main] INFO  app.Util.Log - Starting Scenario: Successful registration with valid data
+2025-05-21 01:55:01 [main] INFO  app.Util.Log - Click on Register button on Home page
+2025-05-21 01:55:03 [main] INFO  app.Util.Log - Generating Unique Email Ids
+2025-05-21 01:55:05 [main] INFO  app.Util.Log - Generating Unique Nicknames Ids
+2025-05-21 01:55:28 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:55:29 [main] ERROR app.Util.Log - Scenario FAILED: Successful registration with valid data
+2025-05-21 01:55:34 [main] INFO  app.Util.Log - Starting Scenario: Successful Login with registered player
+2025-05-21 01:55:43 [main] INFO  app.Util.Log - Click on Login button on Home page
+2025-05-21 01:55:47 [main] INFO  app.Util.Log - Logging first time with newly registered player !!!
+2025-05-21 01:56:23 [main] INFO  app.Util.Log - Taking Screenshot if Scenario Failed !!!
+2025-05-21 01:56:24 [main] ERROR app.Util.Log - Scenario FAILED: Successful Login with registered player
