@@ -3,7 +3,7 @@ Feature: User Registration on GameTwist and then first time login and user updat
   As a new visitor to GameTwist
   I want to register a new player account
   So that I can log in and start playing games
-
+@register
   Scenario: Successful registration with valid data
   	Given I am on the GameTwist home page and get title of home page
   	Then Home page title should be "Play FREE Online Casino games | GameTwist Casino"
@@ -17,7 +17,7 @@ Feature: User Registration on GameTwist and then first time login and user updat
     And "Confirm your e-mail address" message should be displayed
     And resend email button should be displayed
 
-    
+    @login
 	Scenario: Successful Login with registered player
 	  Given I am on the GameTwist home page and get title of home page
   	Then Home page title should be "Play FREE Online Casino games | GameTwist Casino"
