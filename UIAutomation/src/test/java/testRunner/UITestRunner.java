@@ -8,6 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features = {"src/test/resources/appFeatures/UserJourney.feature"},
 		glue = {"stepDefinition","appHooks"},
+		tags= "@Register or @Login",
 		plugin = {
 			"pretty",
 			"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
