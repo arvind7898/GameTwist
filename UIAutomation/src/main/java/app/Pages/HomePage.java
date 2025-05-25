@@ -12,9 +12,9 @@ public class HomePage {
 	private WebDriver driver;
 	ElementUtil util = new ElementUtil(DriverFactory.getDriver());
 
-	private By register = By.xpath("//a[text()='Register']");
-	private By login = By.xpath("//a[text()='Login']");
-	private By acceptAllCookies = By.id("onetrust-accept-btn-handler");
+	private By btnRegister = By.xpath("//a[text()='Register']");
+	private By btnLogin = By.xpath("//a[text()='Login']");
+	private By btnAcceptAllCookies = By.id("onetrust-accept-btn-handler");
 
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
@@ -27,17 +27,17 @@ public class HomePage {
 	public void clickOnRegister() throws InterruptedException {
 		Log.info("Click on Register button on Home page");
 		//Accept all cookies
-		util.waitForElementToBeClickable(acceptAllCookies, 10);
-		util.doClick(acceptAllCookies);
-		util.waitForElementToBeClickable(register, 10);
-		util.doClick(register);
+		util.waitForElementToBeClickable(btnAcceptAllCookies, 10);
+		util.doClick(btnAcceptAllCookies);
+		util.waitForElementToBeClickable(btnRegister, 10);
+		util.doClick(btnRegister);
 	}
 	public void clickOnLogin() throws InterruptedException{
 		Log.info("Click on Login button on Home page");
 		//Accept all cookies
-		util.waitForElementToBeClickable(acceptAllCookies, 10);
-		util.doClick(acceptAllCookies);
-		util.waitForElementToBeClickable(login, 10);
-		util.doClick(login);
+		util.waitForElementToBeClickable(btnAcceptAllCookies, 10);
+		util.doClick(btnAcceptAllCookies);
+		util.waitForElementToBeClickable(btnLogin, 10);
+		util.doClick(btnLogin);
 	}
 }
